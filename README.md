@@ -3,6 +3,7 @@
 Automatically move fully watched **local video files** into a `completed` folder when playback finishes in **mpv / mpvnet**.
 
 This script is designed to be reliable on Windows and safe to use with playlists, avoiding common mpv timing and file-locking issues.
+The file path mentioned is assumed for mpvnet but the script will work with normal mpv also. just put it in the <mpv_file_path>/script folder.
 
 ---
 
